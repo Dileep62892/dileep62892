@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dileep-venkata-prasad-bocha-770503156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dileep-venkata-prasad-bocha-770503156" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dileepbocha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dileep-venkata-prasad-bocha-770503156" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dvp2299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dvp2299" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/user3695rh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/user3695rh/" height="30" width="40" /></a>
 </p>
