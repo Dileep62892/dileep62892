@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dileep62892&label=Profile%20views&color=0e75b6&style=flat" alt="dileep62892" /> </p>
 
-- 🌱 I'm currently **immersing myself in the boundless capabilities of Azure Cloud, while delving into Pyspark and mastering Azure Data Factory.**
+- 🌱 I'm currently **enhancing my data analytics skills and gaining hands-on experience by participating in data challenges.**
 
 - 👯 I’m looking to collaborate on **Python Developer & Data Analyst & Chatbot Developer roles**
 
